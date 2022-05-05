@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FriedJannik
-- 👀 I’m interested in Coding, Programming and... doggos :)
-- 🌱 I’m currently learning Java ;)
+- 👀 I’m interested in Coding and Programming several Applications no matter which type.
+- 🌱 I’m currently learning Java
 
 <!---
 FriedJannik/FriedJannik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
