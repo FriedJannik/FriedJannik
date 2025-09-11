@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @FriedJannik
+- Developer of Eclipse BaSyx (Go, Java)
