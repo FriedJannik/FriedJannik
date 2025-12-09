@@ -1,2 +1,6 @@
 - 👋 Hi, I’m @FriedJannik
-- Developer of Eclipse BaSyx (Go, Java)
+- Passionate Digital Twin Enthusiast
+- Professional Meme Dealer
+- Roaming Meme dropper
+- Developer of Eclipse BaSyx (Go, Web UI, Java)
+- Rigatoni Pasta ⚫️_⚫️
