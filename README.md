@@ -37,7 +37,7 @@ I'm currently a Masters Student of Applied Computer Sciences at Remote Universit
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-jannik.fried%40iese.fraunhofer.de-blue?style=flat&logo=gmail)](mailto:jannik.fried@iese.fraunhofer.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jannik20Fried-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/friedjannik/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jannik%20Fried-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/friedjannik/)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FriedJannik&show_icons=true" />
