@@ -11,6 +11,7 @@ I'm a Software Engineer currently focused on the Asset Administration Shell and 
   
   ![GitHub stars](https://img.shields.io/github/stars/eclipse-basyx/basyx-go-components?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/eclipse-basyx/basyx-go-components?style=social)
+  [![Docker Pulls](https://img.shields.io/docker/pulls/eclipsebasyx/aas-environment)](https://hub.docker.com/r/eclipsebasyx/aas-environment-go)
 
 - [BaSyx Java Server SDK](https://github.com/eclipse-basyx/basyx-java-server-sdk) - An open-source middleware and SDK for implementing Digital Twins (Asset Administration Shell) in Java
   
